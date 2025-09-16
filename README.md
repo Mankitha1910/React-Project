@@ -1,12 +1,36 @@
-# React + Vite
+# 🎉 Trendy Fashion Greeting Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful **React project** showcasing a collection of trendy fashion and greeting cards with interactive features.  
+Each card displays details such as **name, type, colors, price, seller, and image**, along with **like 👍 and dislike 👎 buttons** that update dynamically.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** https://mankitha1910.github.io/React-Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- 📦 Dynamic data rendering using React components & props
+- 🎨 Gradient-based **modern UI styling** with animations
+- ❤️ Like / 👎 Dislike buttons with interactive count updates
+- 📱 Responsive card layout using flexbox
+- 🚀 Deployed with **GitHub Pages**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **React.js** (Vite bundler)
+- **JavaScript (ES6+)**
+- **CSS3** (custom gradients, animations, hover effects)
+- **GitHub Pages** for deployment
+
+---
+
+## 📂 Project Structure
+
+├── src
+│ ├── App.jsx # Single Card component
+│ ├── Data.js # Greeting cards data
+│ ├── index.css # Global styles
+│ ├── main.jsx # Entry point
+├── public
+│ └── index.html # HTML template
+
